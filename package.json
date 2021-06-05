@@ -1,0 +1,12 @@
+{
+  "name": "imob",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nervado/imob.git",
+  "author": "Nervado <evandroabreudeoliveira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
